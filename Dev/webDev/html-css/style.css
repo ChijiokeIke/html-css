@@ -1,0 +1,25 @@
+body {
+     font-family: Arial, Helvetica, sans-serif;
+     background-color: #fff;
+     color: #333;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+
+}
+h1{
+    color: #3498db;
+}
+p{
+    font-size: 1.2em;
+    line-height: 1.6;
+}
